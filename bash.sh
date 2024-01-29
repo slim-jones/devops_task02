@@ -1,6 +1,6 @@
 #!/bin/bash 
 COUNTER=0 
-while [ $COUNTER -lt 10 ] 
+while [ $COUNTER -lt 20 ] 
 # added super important comment
 do 
    echo The counter is $COUNTER 
